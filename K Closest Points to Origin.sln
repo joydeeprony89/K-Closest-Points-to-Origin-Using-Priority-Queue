@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "K Closest Points to Origin", "K Closest Points to Origin\K Closest Points to Origin.csproj", "{E64031AB-1AEC-489B-BB44-CFDD7A02844F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E64031AB-1AEC-489B-BB44-CFDD7A02844F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E64031AB-1AEC-489B-BB44-CFDD7A02844F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E64031AB-1AEC-489B-BB44-CFDD7A02844F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E64031AB-1AEC-489B-BB44-CFDD7A02844F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF4F0F32-347A-4DC4-B2B6-BB9225050867}
+	EndGlobalSection
+EndGlobal
